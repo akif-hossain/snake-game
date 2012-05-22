@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>food.png</Source>
+      <Name>food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\food.xnb</Output>
+      <Time>2010-05-04T18:12:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>body.png</Source>
+      <Name>body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\body.xnb</Output>
+      <Time>2010-05-21T02:05:58.6947047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.png</Source>
+      <Name>grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2010-05-11T21:26:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>top.png</Source>
+      <Name>top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\top.xnb</Output>
+      <Time>2010-05-12T02:18:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2010-05-12T10:47:24-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Akif\Documents\Akif_satec\Gr12\CE12\Snake\Snake Game\Snake Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-05-14T18:49:12.1405317-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
